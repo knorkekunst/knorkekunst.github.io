@@ -1,0 +1,7 @@
+@import url(main.css);
+
+#person p {
+	width: 200px;
+	font-size: 14pt;
+	margin-left: 20px;
+}
